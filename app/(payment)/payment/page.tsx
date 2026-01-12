@@ -12,7 +12,8 @@ export default function PaymentPage() {
   if (!items) return redirect('/', RedirectType.replace);
 
   return (
-    <div className="w-full flex h-screen justify-center items-center  bg-no-repeat bg-cover bg-center">
+    <div className="w-full h-screen flex items-center justify-center bg-pattern">
+
       <Card>
         <CardHeader className="flex flex-col gap-6 p-6">
           <div className="flex gap-2 items-center ">
