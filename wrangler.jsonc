@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "main": ".open-next/worker.js",
-  "name": "pups-shop",
+  "name": "shop",
   "compatibility_date": "2026-01-12",
   "compatibility_flags": [
     "nodejs_compat"
