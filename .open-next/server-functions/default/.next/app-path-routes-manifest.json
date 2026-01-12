@@ -1,0 +1,17 @@
+{
+  "/(payment)/otp/page": "/otp",
+  "/(payment)/payment/page": "/payment",
+  "/(shop)/cart/page": "/cart",
+  "/(shop)/categories/[page]/page": "/categories/[page]",
+  "/(shop)/categories/page": "/categories",
+  "/(shop)/checkout/page": "/checkout",
+  "/(shop)/contact-us/page": "/contact-us",
+  "/(shop)/mn-nhn/page": "/mn-nhn",
+  "/(shop)/page": "/",
+  "/(shop)/products/[slug]/page": "/products/[slug]",
+  "/(shop)/products/page": "/products",
+  "/(shop)/promotions/page": "/promotions",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico"
+}

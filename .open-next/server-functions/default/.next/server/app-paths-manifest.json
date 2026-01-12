@@ -1,0 +1,17 @@
+{
+  "/(payment)/otp/page": "app/(payment)/otp/page.js",
+  "/(payment)/payment/page": "app/(payment)/payment/page.js",
+  "/(shop)/cart/page": "app/(shop)/cart/page.js",
+  "/(shop)/categories/[page]/page": "app/(shop)/categories/[page]/page.js",
+  "/(shop)/categories/page": "app/(shop)/categories/page.js",
+  "/(shop)/checkout/page": "app/(shop)/checkout/page.js",
+  "/(shop)/contact-us/page": "app/(shop)/contact-us/page.js",
+  "/(shop)/mn-nhn/page": "app/(shop)/mn-nhn/page.js",
+  "/(shop)/page": "app/(shop)/page.js",
+  "/(shop)/products/[slug]/page": "app/(shop)/products/[slug]/page.js",
+  "/(shop)/products/page": "app/(shop)/products/page.js",
+  "/(shop)/promotions/page": "app/(shop)/promotions/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

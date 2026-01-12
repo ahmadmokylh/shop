@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,51596,e=>{"use strict";var t=e.i(24412),r=e.i(85537);function c(){return(0,r.usePathname)().startsWith("/products")?(0,r.redirect)("/categories",r.RedirectType.replace):(0,t.jsx)("div",{children:"Products Page"})}e.s(["default",()=>c])}]);
